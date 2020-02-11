@@ -1,0 +1,20 @@
+{
+  "name": "ifttt-webhooks",
+  "version": "1.0.4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajzat34/IFTTT-WebHooks.git"
+  },
+  "keywords": [],
+  "author": "ajzat34",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajzat34/IFTTT-WebHooks/issues"
+  },
+  "homepage": "https://github.com/ajzat34/IFTTT-WebHooks#readme",
+  "description": ""
+}
