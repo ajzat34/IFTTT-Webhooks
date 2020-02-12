@@ -39,6 +39,8 @@ class IFTTT {
         // look at the status code
         if (req.statusCode < 200 || req.statusCode >= 300) {
           reject(new Error('statusCode = ' + req.statusCode))
+        } else {
+          resolve()
         }
       })
 
@@ -55,7 +57,6 @@ class IFTTT {
 
       // end the request
       req.end()
-      resolve()
     })
 
     return p
