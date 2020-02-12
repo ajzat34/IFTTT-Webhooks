@@ -55,6 +55,7 @@ class IFTTT {
 
       // end the request
       req.end()
+      resolve()
     })
 
     return p
