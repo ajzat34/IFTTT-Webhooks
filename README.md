@@ -20,7 +20,7 @@ ifttt.trigger('event_name')
 ifttt.trigger('event_name').catch(function(err){console.log(err)})
 
 // trigger an event with parameters
-ifttt.trigger('event_name'. {"value1": "data"})
+ifttt.trigger('event_name', {"value1": "data"})
 
 ```
 
