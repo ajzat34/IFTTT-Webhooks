@@ -24,12 +24,5 @@ ifttt.trigger('event_name', {"value1": "data"})
 
 ```
 
-### Require:
- Add this to your `package.json`
- ```json
- "dependencies": {
-    "ifttt-webhooks": "latest"
-  }
- ```
 # Further Reading:
 ### IFTTT webhooks docs https://ifttt.com/maker_webhooks
