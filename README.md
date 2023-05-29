@@ -1,5 +1,5 @@
 # IFTTT-Webhooks
-Simple Interface for IFTTT Webhooks in NodeJS with no dependencies
+Simple Interface for IFTTT Webhooks in NodeJS
 
 ## Getting Started
 ### Install:
